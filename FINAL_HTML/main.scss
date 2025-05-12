@@ -4,10 +4,12 @@
         @extend %d-flex-jc-space;
         // padding: 10px 0;
         font-family: $main-font;
-
+        font-size: 20px;
+        color: $black-color;
         .logo{
             cursor: pointer;
             font-family: $logo_h_font;
+            font-size: 48px;
 
         }
     }
