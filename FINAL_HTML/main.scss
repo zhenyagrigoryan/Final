@@ -1,0 +1,14 @@
+.main-header {
+
+    .nav-links {
+        @extend %d-flex-jc-space;
+        // padding: 10px 0;
+        font-family: $main-font;
+
+        .logo{
+            cursor: pointer;
+            font-family: $logo_h_font;
+
+        }
+    }
+}
